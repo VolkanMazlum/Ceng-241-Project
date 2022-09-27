@@ -1,0 +1,9 @@
+        Surname           Name           Type         Last Ticket
+        bebelak          safis    Disability 0              0 0
+          guler           sule       Student 0              0 0
+         mazlum         volkan          Gazi 0              0 0
+         tongal           bahu         Sehit 0              0 0
+         tongal         zeytin         Adult 1              0 0
+          tolki          volki       Student 1              0 0
+          guler           nyan          Gazi 1              0 0
+Total Ticket Price are Sold: 0

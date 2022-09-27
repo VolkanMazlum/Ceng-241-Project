@@ -1,0 +1,8 @@
+﻿  admin.cpp
+  main.cpp
+C:\Users\VOLKAN MAZLUM\Desktop\CENG 241\Railway Reservation System -Source Code\main.cpp(665,14): warning C4101: 'e': unreferenced local variable
+  person.cpp
+  ticket.cpp
+  Generating Code...
+C:\Users\VOLKAN MAZLUM\Desktop\CENG 241\Railway Reservation System -Source Code\ticket.cpp(129): warning C4715: 'Ticket::cancel_ticket': not all control paths return a value
+  Project79.vcxproj -> C:\Users\VOLKAN MAZLUM\Desktop\CENG 241\Railway Reservation System -Source Code\Debug\Project79.exe
